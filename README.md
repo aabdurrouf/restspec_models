@@ -1,8 +1,6 @@
 # restspec_models
 This is a repository storing some model spectra templates (at rest-frame) generated with piXedfit 
 
-https://drive.google.com/file/d/13_7S0o_1-Me4bS5V0qGwiPVWhwWrmTWY/view?usp=sharing
-
 | IMF | SFH | Dust law | Nebular emission | AGN torus emission | Dust emission | Download link |
 |:----|:----|:---------|:-----------------|:-------------------|:--------------|:--------------|
 | CB | DPL | C20 | yes | yes | yes | [link](https://drive.google.com/uc?export=download&id=1WTffhzPJT_MRtS0vt1CqFLDv6XxlerJe)|
